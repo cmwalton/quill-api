@@ -1,2 +1,7 @@
 fastapi
 uvicorn[standard]
+pyjwt
+python-multipart
+anthropic
+python-dotenv
+stripe
